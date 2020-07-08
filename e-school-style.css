@@ -1,0 +1,128 @@
+.logo{
+    width: 120px;
+    height: 40px;
+}
+
+.menu{
+    margin-right: 30px;
+}
+
+.img-fluid{
+    max-width: 90%;
+    height: auto;
+}
+.click-btn{
+    background-color: #2eb35a;
+    border-radius: 33px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+}
+.ready-learn-text{
+    color:#FD511A;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+.any-schedule{
+    color: #42cf29;
+}
+.upper-section{
+    background-color: #F0FFF0;
+}
+
+section{
+    margin-bottom: 100px;
+}
+.mid-section{
+    height: 250px;
+}
+
+.card{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    
+}
+.card alignment{
+    padding: 20px 40px;
+}
+.card-psychology{
+    padding: 10px 15px;
+}
+h3{
+    text-align: center;
+}
+.calender{
+    margin-top: 50px;
+}
+
+.calender img{
+    height: 20px;
+    width: 20px;
+}
+.man{
+    width: 120px;
+    height: 120px;
+    left: 353px;
+    top: 1787px;
+}
+
+.footer{
+    background-color: #282531;
+    color: #FFFFFF;
+    margin-bottom: 0px;
+}
+
+.footer-inner{
+    margin-bottom: 30px;
+}
+#footer-text{
+    padding-left: 200px;
+    padding-top: 50px;
+}
+#courses-links{
+    padding-top: 50px;
+}
+
+.testimonial{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.slider{
+    margin-bottom: 100px;
+}
+.copyright{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.middle-section img{
+    width: 100px;
+    height: 100px;
+}
+.cards{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    background-color:#F8FFFB;
+    border-radius: 10px;
+}
+#card-student{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.headline{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    color: #000000;
+}
